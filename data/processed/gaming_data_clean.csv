@@ -1,0 +1,251 @@
+Game_ID,Record_Date,Platform,Genre,City,Pricing_Model,Monthly_Active_Players_K,Avg_Session_Minutes,Marketing_Spend_Lakh,Game_Size_GB,Monthly_Revenue_Lakh,Revenue_per_1K_players,Engagement_Level,Player_Size
+G1001,2025-04-03,PC,RPG,Mumbai,Free_With_Ads,15.0,55.0,8.2,0.93,32.4,216000.0,High,Small
+G1002,2024-11-25,PC,Strategy,Mumbai,In_App_Purchases,99.1,29.0,13.5,2.95,29.2,29465.19,Medium,Medium
+G1003,2026-03-19,Mobile,Puzzle,Delhi,In_App_Purchases,127.6,30.0,6.8,2.16,31.5,24686.52,Medium,Large
+G1004,2026-10-24,Mobile,Sports,Delhi,Free_With_Ads,62.1,34.0,12.3,4.71,16.9,27214.17,Medium,Small
+G1005,2026-06-09,Mobile,Puzzle,Delhi,Free_With_Ads,120.3,43.0,8.6,1.44,50.1,41645.89,High,Large
+G1006,2025-09-24,Mobile,Action,Delhi,In_App_Purchases,120.8,26.0,7.2,1.03,35.7,29552.98,Medium,Large
+G1007,2026-07-30,PC,Puzzle,Bengaluru,Free_With_Ads,34.6,34.0,11.5,1.59,49.8,143930.64,Medium,Small
+G1008,2025-12-23,PC,Action,Mumbai,Free_With_Ads,64.4,31.0,17.7,3.27,24.5,38043.48,Medium,Small
+G1009,2025-06-02,Mobile,Puzzle,Mumbai,In_App_Purchases,127.2,28.0,9.2,3.52,13.2,10377.36,Medium,Large
+G1010,2026-06-10,Mobile,Strategy,Bengaluru,Paid,145.1,25.0,12.6,3.41,36.3,25017.23,Medium,Large
+G1011,2025-02-14,PC,Puzzle,Mumbai,Paid,175.1,26.0,4.7,4.7,42.8,24443.18,Medium,Very Large
+G1012,2025-11-13,Console,Sports,Pune,Free_With_Ads,122.1,51.0,8.5,1.95,72.6,59459.46,High,Large
+G1013,2026-02-25,Mobile,Puzzle,Mumbai,Free_With_Ads,202.7,40.0,11.5,2.7,58.8,29008.39,High,Very Large
+G1014,2026-04-27,Mobile,Action,Delhi,In_App_Purchases,89.9,25.0,7.0,3.9,38.0,42269.19,Medium,Medium
+G1015,2025-03-23,Mobile,Sports,Bengaluru,Free_With_Ads,121.1,18.0,12.1,0.4,23.4,19322.87,Low,Large
+G1016,2025-02-24,Mobile,Action,Delhi,Free_With_Ads,108.5,28.0,6.0,2.26,35.3,32534.56,Medium,Medium
+G1017,2025-11-14,Mobile,Puzzle,Bengaluru,Paid,154.2,52.0,9.45,2.64,63.1,40920.88,High,Very Large
+G1018,2026-05-17,Console,RPG,Bengaluru,Free_With_Ads,230.4,28.0,9.5,1.97,65.5,28428.82,Medium,Very Large
+G1019,2025-11-15,Mobile,RPG,Bengaluru,Free_With_Ads,122.0,46.0,6.3,2.84,61.3,50245.9,High,Large
+G1020,2026-10-10,Mobile,RPG,Delhi,In_App_Purchases,62.5,32.0,8.0,2.39,26.4,42240.0,Medium,Small
+G1021,2026-09-12,Mobile,RPG,Delhi,Free_With_Ads,73.6,41.0,10.3,1.81,29.0,39402.17,High,Small
+G1022,2025-03-15,PC,Action,Delhi,Paid,214.8,50.0,11.9,2.48,86.8,40409.68,High,Very Large
+G1023,2024-12-13,Mobile,Sports,Delhi,Paid,141.6,35.0,5.1,1.08,38.1,26906.78,Medium,Large
+G1024,2025-03-13,Mobile,Sports,Delhi,In_App_Purchases,146.3,52.0,11.3,3.18,49.5,33834.59,High,Large
+G1025,2026-07-22,Mobile,Puzzle,Delhi,In_App_Purchases,149.3,10.0,14.5,1.82,20.5,13730.74,Low,Large
+G1026,2025-08-21,Mobile,Sports,Mumbai,In_App_Purchases,219.7,28.0,11.3,3.74,75.9,34547.11,Medium,Very Large
+G1027,2024-11-22,Mobile,RPG,Hyderabad,Free_With_Ads,126.6,55.0,6.0,1.79,55.7,43996.84,High,Large
+G1028,2025-05-16,Mobile,Action,Mumbai,Paid,183.2,24.0,13.1,3.39,72.0,39301.31,Low,Very Large
+G1029,2025-05-19,Mobile,Puzzle,Delhi,In_App_Purchases,80.3,56.0,7.0,2.39,49.8,62017.43,High,Medium
+G1030,2025-09-24,PC,RPG,Bengaluru,In_App_Purchases,106.2,7.0,6.7,2.75,3.0,2824.86,Low,Medium
+G1031,2025-03-06,Mobile,RPG,Mumbai,Paid,105.1,31.0,5.5,2.97,28.0,26641.29,Medium,Medium
+G1032,2026-05-17,PC,Action,Hyderabad,Paid,125.1,23.0,12.4,3.16,35.8,28617.11,Low,Large
+G1033,2026-04-09,PC,Sports,Hyderabad,Free_With_Ads,122.6,30.0,8.0,3.66,32.2,26264.27,Medium,Large
+G1034,2024-11-23,PC,RPG,Mumbai,Free_With_Ads,107.4,43.0,8.2,3.11,56.4,52513.97,High,Medium
+G1035,2026-11-06,PC,Sports,Delhi,In_App_Purchases,112.1,31.0,9.5,3.67,48.5,43264.94,Medium,Medium
+G1036,2025-08-19,Console,RPG,Mumbai,Paid,133.2,38.0,5.6,1.38,51.2,38438.44,Medium,Large
+G1037,2025-07-10,PC,Sports,Mumbai,Free_With_Ads,121.6,20.0,11.2,2.63,23.9,19654.61,Low,Large
+G1038,2025-05-08,Mobile,Strategy,Delhi,In_App_Purchases,129.1,41.0,11.2,1.62,44.5,34469.4,High,Large
+G1039,2025-06-23,Mobile,Puzzle,Delhi,In_App_Purchases,151.7,36.0,9.1,1.97,61.6,40606.46,Medium,Very Large
+G1040,2026-11-17,Mobile,Puzzle,Bengaluru,In_App_Purchases,205.2,43.0,5.2,3.25,62.8,30604.29,High,Very Large
+G1041,2025-07-29,Mobile,Action,Delhi,In_App_Purchases,162.8,32.0,11.7,1.98,32.1,19717.44,Medium,Very Large
+G1042,2026-10-10,PC,Action,Delhi,Free_With_Ads,157.1,34.0,7.8,2.11,73.7,46912.79,Medium,Very Large
+G1043,2025-05-27,Mobile,Action,Bengaluru,Free_With_Ads,215.5,32.0,18.9,2.53,78.1,36241.3,Medium,Very Large
+G1044,2025-02-07,Console,Puzzle,Bengaluru,Free_With_Ads,172.5,43.0,9.5,2.53,68.1,39478.26,High,Very Large
+G1045,2026-09-26,Mobile,Puzzle,Hyderabad,Free_With_Ads,77.4,34.0,9.4,4.18,3.4,4392.76,Medium,Small
+G1046,2025-06-13,PC,RPG,Mumbai,Paid,85.5,26.0,11.4,2.03,32.0,37426.9,Medium,Medium
+G1047,2025-11-11,PC,Action,Mumbai,Free_With_Ads,146.3,46.0,6.9,0.1,56.5,38619.28,High,Large
+G1048,2025-09-29,Mobile,Puzzle,Mumbai,Free_With_Ads,63.1,33.0,16.5,3.73,33.8,53565.77,Medium,Small
+G1049,2025-01-29,Mobile,Action,Hyderabad,Free_With_Ads,127.6,55.0,4.7,2.55,73.6,57680.25,High,Large
+G1050,2025-06-29,Mobile,Action,Mumbai,In_App_Purchases,69.2,49.0,12.3,1.92,31.0,44797.69,High,Small
+G1051,2026-05-16,PC,Puzzle,Hyderabad,Paid,168.3,31.0,10.3,0.62,46.8,27807.49,Medium,Very Large
+G1052,2026-03-04,Mobile,Sports,Bengaluru,Paid,112.7,33.0,8.6,2.19,44.0,39041.7,Medium,Medium
+G1053,2025-01-29,Console,Sports,Bengaluru,Free_With_Ads,153.0,37.0,7.3,3.72,60.3,39411.76,Medium,Very Large
+G1054,2026-06-02,Mobile,Action,Delhi,In_App_Purchases,120.7,24.0,8.3,3.19,39.2,32477.22,Low,Large
+G1055,2026-06-12,Mobile,Puzzle,Bengaluru,Free_With_Ads,96.6,60.0,3.1,3.05,50.7,52484.47,High,Medium
+G1056,2025-06-26,Mobile,Action,Delhi,Free_With_Ads,157.5,27.0,5.3,1.69,42.9,27238.1,Medium,Very Large
+G1057,2026-03-05,Console,Strategy,Pune,Free_With_Ads,125.4,53.0,9.2,2.65,94.2,75119.62,High,Large
+G1058,2026-07-31,PC,Action,Delhi,Free_With_Ads,193.8,39.0,8.0,2.32,51.9,26780.19,Medium,Very Large
+G1059,2025-03-08,PC,Action,Hyderabad,Paid,147.9,40.0,4.9,3.21,46.9,31710.62,High,Large
+G1060,2025-09-04,Mobile,Action,Delhi,In_App_Purchases,34.9,34.0,12.2,2.01,17.5,50143.27,Medium,Small
+G1061,2026-04-26,Console,Action,Pune,Free_With_Ads,73.1,24.0,6.1,2.67,7.3,9986.32,Low,Small
+G1062,2026-05-02,PC,RPG,Hyderabad,In_App_Purchases,149.6,36.0,8.1,1.88,39.8,26604.28,Medium,Large
+G1063,2026-06-30,Mobile,Unknown,Delhi,In_App_Purchases,167.0,25.0,7.8,1.94,36.9,22095.81,Medium,Very Large
+G1064,2026-04-24,PC,Action,Delhi,Free_With_Ads,133.0,24.0,13.5,2.53,32.1,24135.34,Low,Large
+G1065,2025-10-17,Mobile,Puzzle,Mumbai,Free_With_Ads,134.3,25.0,3.8,2.22,35.8,26656.74,Medium,Large
+G1066,2025-11-30,Console,Strategy,Mumbai,Paid,99.8,15.0,17.0,2.89,41.0,41082.16,Low,Medium
+G1067,2026-04-24,Console,Sports,Delhi,Paid,88.7,33.0,11.9,2.99,43.2,48703.49,Medium,Medium
+G1068,2026-10-22,PC,RPG,Mumbai,Paid,87.8,26.0,8.3,1.25,20.9,23804.1,Medium,Medium
+G1069,2025-01-12,Console,RPG,Pune,Paid,88.3,23.0,8.4,3.51,35.5,40203.85,Low,Medium
+G1070,2025-08-23,Mobile,Sports,Mumbai,In_App_Purchases,159.2,51.0,10.9,2.61,86.4,54271.36,High,Very Large
+G1071,2026-08-30,Console,Sports,Bengaluru,Paid,86.0,39.0,13.0,4.45,39.8,46279.07,Medium,Medium
+G1072,2025-07-29,Mobile,Unknown,Hyderabad,Free_With_Ads,102.6,39.0,5.4,2.09,35.6,34697.86,Medium,Medium
+G1073,2025-07-11,Console,Puzzle,Delhi,Paid,67.0,43.0,13.8,2.3,51.0,76119.4,High,Small
+G1074,2024-12-27,Console,Puzzle,Delhi,Paid,116.3,26.0,15.0,1.42,19.1,16423.04,Medium,Medium
+G1075,2026-01-11,PC,Action,Delhi,Free_With_Ads,184.6,20.0,9.9,3.06,37.5,20314.19,Low,Very Large
+G1076,2024-12-19,Mobile,Sports,Delhi,Free_With_Ads,83.3,38.0,8.1,3.06,32.1,38535.41,Medium,Medium
+G1077,2024-11-29,Mobile,Action,Bengaluru,Free_With_Ads,123.3,23.0,9.0,2.07,35.0,28386.05,Low,Large
+G1078,2025-10-30,Mobile,RPG,Bengaluru,Free_With_Ads,69.0,45.0,14.8,1.76,45.1,65362.32,High,Small
+G1079,2025-06-19,Mobile,Action,Pune,Free_With_Ads,244.6,44.0,13.8,0.81,93.3,38143.91,High,Very Large
+G1080,2025-01-31,PC,Puzzle,Pune,Free_With_Ads,142.7,30.0,9.45,3.36,46.4,32515.77,Medium,Large
+G1081,2025-09-07,PC,Action,Delhi,Paid,40.1,33.0,9.45,2.47,31.3,78054.86,Medium,Small
+G1082,2025-09-12,Mobile,RPG,Delhi,In_App_Purchases,109.5,37.0,6.3,2.28,50.4,46027.4,Medium,Medium
+G1083,2026-08-02,Mobile,Puzzle,Mumbai,In_App_Purchases,95.2,19.0,18.8,2.36,27.8,29201.68,Low,Medium
+G1084,2025-01-31,Mobile,Action,Mumbai,In_App_Purchases,99.8,39.0,11.3,3.4,49.8,49899.8,Medium,Medium
+G1085,2025-08-15,PC,Strategy,Delhi,Free_With_Ads,181.9,29.0,14.2,3.82,44.5,24463.99,Medium,Very Large
+G1086,2026-01-19,PC,Puzzle,Mumbai,In_App_Purchases,122.0,46.0,4.7,2.81,62.1,50901.64,High,Large
+G1087,2025-01-26,Mobile,Puzzle,Bengaluru,In_App_Purchases,169.3,43.0,7.5,0.96,69.4,40992.32,High,Very Large
+G1088,2025-06-21,Console,Puzzle,Mumbai,Paid,137.0,33.0,15.4,0.24,58.2,42481.75,Medium,Large
+G1089,2026-07-31,Console,Sports,Pune,In_App_Purchases,122.5,32.0,4.0,1.49,57.5,46938.78,Medium,Large
+G1090,2026-09-29,Mobile,RPG,Delhi,Free_With_Ads,227.5,49.0,14.4,0.33,78.2,34373.63,High,Very Large
+G1091,2026-03-31,Mobile,Sports,Delhi,Free_With_Ads,156.3,19.0,18.2,1.62,49.8,31861.8,Low,Very Large
+G1092,2025-10-05,Mobile,Strategy,Mumbai,Paid,173.0,66.0,8.3,0.96,98.5,56936.42,High,Very Large
+G1093,2026-09-07,Mobile,Strategy,Mumbai,Free_With_Ads,95.0,34.0,6.9,0.47,8.1,8526.32,Medium,Medium
+G1094,2025-08-16,Console,Sports,Mumbai,Paid,127.4,29.0,9.4,3.09,53.6,42072.21,Medium,Large
+G1095,2026-05-06,PC,Action,Bengaluru,In_App_Purchases,142.0,29.0,7.6,3.57,42.6,30000.0,Medium,Large
+G1096,2025-10-08,Console,RPG,Delhi,In_App_Purchases,86.5,31.0,13.3,3.28,37.4,43236.99,Medium,Medium
+G1097,2026-05-17,PC,Action,Delhi,Free_With_Ads,72.0,32.0,7.3,4.33,20.2,28055.56,Medium,Small
+G1098,2026-02-25,Mobile,Unknown,Mumbai,In_App_Purchases,177.5,42.0,13.8,2.01,60.1,33859.15,High,Very Large
+G1099,2026-10-10,PC,Strategy,Mumbai,Free_With_Ads,210.9,18.0,27.0,2.7,75.2,35656.71,Low,Very Large
+G1100,2025-12-27,PC,RPG,Delhi,Free_With_Ads,127.7,37.0,6.0,1.6,57.7,45184.03,Medium,Large
+G1101,2025-12-15,Mobile,Strategy,Pune,Paid,122.8,32.0,13.2,1.57,38.3,31188.93,Medium,Large
+G1102,2025-11-13,PC,Action,Bengaluru,In_App_Purchases,138.9,39.0,5.8,2.93,52.3,37652.99,Medium,Large
+G1103,2025-10-15,PC,Action,Delhi,In_App_Purchases,43.1,39.0,15.4,3.21,34.5,80046.4,Medium,Small
+G1104,2025-10-07,Mobile,RPG,Mumbai,Free_With_Ads,64.6,33.0,14.0,1.36,25.7,39783.28,Medium,Small
+G1105,2026-06-25,Mobile,RPG,Mumbai,In_App_Purchases,206.8,21.0,9.45,4.27,57.5,27804.64,Low,Very Large
+G1106,2026-10-09,Mobile,Sports,Delhi,In_App_Purchases,95.8,36.0,11.1,1.61,22.4,23382.05,Medium,Medium
+G1107,2025-12-30,Mobile,Action,Hyderabad,Paid,78.1,48.0,3.3,3.12,63.7,81562.1,High,Small
+G1108,2026-06-04,Mobile,Action,Delhi,Free_With_Ads,36.3,27.0,3.2,1.28,3.4,9366.39,Medium,Small
+G1109,2024-11-30,Mobile,Puzzle,Hyderabad,In_App_Purchases,85.1,35.0,20.9,0.42,44.2,51938.9,Medium,Medium
+G1110,2026-01-21,Mobile,Puzzle,Mumbai,Free_With_Ads,127.2,37.0,6.9,2.6,42.1,33097.48,Medium,Large
+G1111,2026-02-08,Mobile,Sports,Delhi,Free_With_Ads,122.2,16.0,6.2,0.1,22.4,18330.61,Low,Large
+G1112,2026-08-23,Mobile,Action,Bengaluru,In_App_Purchases,128.3,28.0,6.8,3.01,39.6,30865.16,Medium,Large
+G1113,2025-05-22,Mobile,Puzzle,Bengaluru,Free_With_Ads,156.3,45.0,15.2,3.48,65.3,41778.63,High,Very Large
+G1114,2026-10-25,Console,Action,Mumbai,Free_With_Ads,152.8,24.0,11.6,3.12,46.0,30104.71,Low,Very Large
+G1115,2026-11-10,Mobile,Action,Pune,Paid,96.3,40.0,13.6,3.37,41.2,42782.97,High,Medium
+G1116,2026-07-07,Mobile,Puzzle,Mumbai,Free_With_Ads,152.1,38.0,1.7,2.19,50.1,32938.86,Medium,Very Large
+G1117,2025-03-21,Console,Action,Delhi,Paid,119.1,48.0,5.9,3.25,65.2,54743.91,High,Medium
+G1118,2025-07-02,Console,Strategy,Hyderabad,Free_With_Ads,116.4,21.0,7.7,3.81,45.6,39175.26,Low,Medium
+G1119,2026-09-01,Console,Sports,Bengaluru,In_App_Purchases,171.7,32.0,10.7,3.54,65.1,37914.97,Medium,Very Large
+G1120,2026-06-07,Console,Sports,Bengaluru,Paid,187.4,39.0,7.5,4.65,48.2,25720.38,Medium,Very Large
+G1121,2025-04-14,Mobile,Puzzle,Bengaluru,Paid,111.6,31.0,10.9,4.26,27.5,24641.58,Medium,Medium
+G1122,2025-05-05,Console,Puzzle,Bengaluru,Paid,149.2,44.0,12.5,2.39,77.6,52010.72,High,Large
+G1123,2024-12-27,PC,Puzzle,Bengaluru,Free_With_Ads,121.4,24.0,14.7,1.48,38.2,31466.23,Low,Large
+G1124,2025-04-01,Mobile,Action,Pune,Paid,157.8,28.0,9.9,0.1,63.2,40050.7,Medium,Very Large
+G1125,2026-06-16,Mobile,Action,Bengaluru,Paid,104.0,23.0,8.6,4.72,23.0,22115.38,Low,Medium
+G1126,2025-06-29,Mobile,RPG,Pune,Paid,86.0,34.0,11.5,4.24,53.2,61860.47,Medium,Medium
+G1127,2026-02-13,Console,Action,Delhi,In_App_Purchases,80.0,38.0,7.2,1.75,41.0,51250.0,Medium,Small
+G1128,2025-10-10,PC,RPG,Bengaluru,Free_With_Ads,130.1,43.0,13.8,4.24,59.9,46041.51,High,Large
+G1129,2025-07-23,Console,RPG,Bengaluru,Free_With_Ads,72.7,26.0,9.1,1.58,22.5,30949.11,Medium,Small
+G1130,2026-04-10,Mobile,Action,Mumbai,In_App_Purchases,79.8,46.0,9.8,4.27,52.6,65914.79,High,Small
+G1131,2026-04-01,Mobile,Strategy,Delhi,Free_With_Ads,94.7,26.0,11.3,0.97,43.5,45934.53,Medium,Medium
+G1132,2026-05-29,PC,Action,Mumbai,Free_With_Ads,150.0,50.0,10.7,4.04,72.5,48333.33,High,Large
+G1133,2025-05-09,Mobile,Sports,Hyderabad,In_App_Purchases,37.4,33.0,3.4,3.9,24.3,64973.26,Medium,Small
+G1134,2025-10-19,Mobile,Strategy,Pune,In_App_Purchases,135.0,41.0,10.6,0.77,57.5,42592.59,High,Large
+G1135,2025-03-04,Mobile,Unknown,Delhi,In_App_Purchases,157.3,40.0,10.1,2.58,68.3,43420.22,High,Very Large
+G1136,2025-11-16,Mobile,Action,Delhi,Free_With_Ads,167.6,12.0,6.1,1.36,24.8,14797.14,Low,Very Large
+G1137,2026-09-10,Mobile,Action,Bengaluru,Free_With_Ads,22.9,32.0,20.1,2.12,9.1,39737.99,Medium,Small
+G1138,2025-06-27,Mobile,Puzzle,Hyderabad,In_App_Purchases,112.2,57.0,9.9,2.53,75.3,67112.3,High,Medium
+G1139,2026-01-30,Mobile,Puzzle,Delhi,Free_With_Ads,140.9,20.0,20.9,4.07,44.1,31298.79,Low,Large
+G1140,2026-10-19,Mobile,Sports,Pune,In_App_Purchases,130.5,14.0,7.8,2.69,19.9,15249.04,Low,Large
+G1141,2026-10-20,Mobile,Action,Pune,Free_With_Ads,80.5,43.0,9.8,1.75,38.7,48074.53,High,Medium
+G1142,2026-05-11,Mobile,Sports,Pune,Paid,132.7,42.0,8.9,2.16,58.3,43933.69,High,Large
+G1143,2025-03-31,Mobile,Strategy,Pune,Free_With_Ads,55.9,19.0,8.2,1.09,11.9,21288.01,Low,Small
+G1144,2025-03-10,PC,Strategy,Delhi,Free_With_Ads,63.5,42.0,7.6,1.25,40.5,63779.53,High,Small
+G1145,2026-06-28,Mobile,Sports,Delhi,Paid,47.9,45.0,9.5,2.96,46.4,96868.48,High,Small
+G1146,2025-08-30,Mobile,Strategy,Bengaluru,Free_With_Ads,78.5,34.0,20.6,3.22,33.1,42165.61,Medium,Small
+G1147,2025-12-23,Mobile,Sports,Delhi,In_App_Purchases,147.0,31.0,6.4,2.16,45.1,30680.27,Medium,Large
+G1148,2026-02-16,Console,Action,Mumbai,Paid,143.3,36.0,25.8,3.82,57.5,40125.61,Medium,Large
+G1149,2026-08-20,Mobile,Puzzle,Delhi,Free_With_Ads,89.9,28.0,10.5,3.88,3.0,3337.04,Medium,Medium
+G1150,2025-03-01,Mobile,Sports,Hyderabad,Free_With_Ads,109.3,40.0,9.7,2.5,52.8,48307.41,High,Medium
+G1151,2024-12-03,PC,Action,Delhi,Free_With_Ads,61.8,35.0,8.5,1.08,23.0,37216.83,Medium,Small
+G1152,2025-12-05,Console,RPG,Delhi,Free_With_Ads,70.6,9.0,18.9,3.46,3.0,4249.29,Low,Small
+G1153,2026-11-08,PC,Sports,Delhi,In_App_Purchases,69.6,42.0,9.7,2.32,55.2,79310.34,High,Small
+G1154,2025-07-15,Mobile,Strategy,Delhi,Free_With_Ads,28.4,25.0,11.4,2.32,5.4,19014.08,Medium,Small
+G1155,2026-02-01,Console,Action,Mumbai,Paid,191.4,55.0,11.7,1.73,83.0,43364.68,High,Very Large
+G1156,2026-01-02,Mobile,Sports,Bengaluru,Paid,133.1,33.0,9.8,2.39,26.6,19984.97,Medium,Large
+G1157,2025-02-21,PC,Sports,Mumbai,Free_With_Ads,78.8,18.0,7.8,1.54,6.9,8756.35,Low,Small
+G1158,2025-09-09,Console,Sports,Hyderabad,In_App_Purchases,77.5,53.0,12.0,3.9,28.0,36129.03,High,Small
+G1159,2026-10-30,Mobile,RPG,Delhi,Free_With_Ads,144.7,49.0,25.4,1.05,75.3,52038.7,High,Large
+G1160,2025-01-08,Console,RPG,Pune,In_App_Purchases,70.4,23.0,11.3,4.43,11.2,15909.09,Low,Small
+G1161,2026-11-14,Mobile,Puzzle,Bengaluru,Free_With_Ads,141.5,42.0,11.2,1.16,66.9,47279.15,High,Large
+G1162,2026-06-02,Mobile,RPG,Bengaluru,Free_With_Ads,68.4,53.0,19.0,2.29,58.6,85672.51,High,Small
+G1163,2025-03-16,Console,RPG,Bengaluru,Paid,139.3,33.0,11.7,0.88,42.6,30581.48,Medium,Large
+G1164,2025-09-25,Mobile,RPG,Delhi,In_App_Purchases,62.9,30.0,19.0,4.21,27.2,43243.24,Medium,Small
+G1165,2025-09-02,Console,Action,Delhi,In_App_Purchases,122.0,46.0,7.6,1.6,65.2,53442.62,High,Large
+G1166,2026-01-09,Mobile,Action,Bengaluru,Free_With_Ads,108.1,33.0,10.7,2.79,31.3,28954.67,Medium,Medium
+G1167,2024-11-27,PC,RPG,Pune,In_App_Purchases,63.8,33.0,16.2,2.77,23.0,36050.16,Medium,Small
+G1168,2025-08-19,Mobile,Action,Pune,In_App_Purchases,150.5,33.0,3.8,1.84,52.0,34551.5,Medium,Very Large
+G1169,2025-08-16,PC,RPG,Pune,Paid,161.4,29.0,11.3,4.18,47.6,29491.95,Medium,Very Large
+G1170,2025-09-27,Console,Puzzle,Delhi,Paid,152.9,26.0,10.4,0.77,48.0,31393.07,Medium,Very Large
+G1171,2025-11-29,Mobile,Puzzle,Hyderabad,Free_With_Ads,104.7,34.0,7.0,3.01,3.0,2865.33,Medium,Medium
+G1172,2026-06-02,Mobile,RPG,Mumbai,Paid,214.4,48.0,5.0,0.57,73.4,34235.07,High,Very Large
+G1173,2026-02-01,Console,Action,Mumbai,Free_With_Ads,112.4,34.0,11.9,1.6,46.9,41725.98,Medium,Medium
+G1174,2026-06-05,Console,Action,Mumbai,Free_With_Ads,114.0,54.0,14.3,3.37,61.6,54035.09,High,Medium
+G1175,2025-01-10,Mobile,Sports,Delhi,Paid,79.2,34.0,7.0,2.78,20.2,25505.05,Medium,Small
+G1176,2026-10-07,Mobile,Action,Delhi,In_App_Purchases,93.3,33.0,4.2,4.09,41.2,44158.63,Medium,Medium
+G1177,2024-12-27,PC,RPG,Delhi,Free_With_Ads,151.2,37.0,10.4,0.92,52.9,34986.77,Medium,Very Large
+G1178,2026-06-25,Mobile,Sports,Delhi,Free_With_Ads,162.9,40.0,4.6,1.94,50.2,30816.45,High,Very Large
+G1179,2025-03-21,Mobile,Action,Delhi,Free_With_Ads,128.8,39.0,7.1,3.41,46.5,36102.48,Medium,Large
+G1180,2026-02-04,PC,RPG,Hyderabad,Paid,159.4,47.0,17.7,2.31,53.2,33375.16,High,Very Large
+G1181,2026-01-04,Mobile,Puzzle,Mumbai,Free_With_Ads,90.2,22.0,3.0,2.15,5.8,6430.16,Low,Medium
+G1182,2025-11-09,Mobile,Puzzle,Pune,In_App_Purchases,76.2,40.0,4.7,3.26,42.2,55380.58,High,Small
+G1183,2026-06-30,Mobile,Action,Mumbai,In_App_Purchases,230.7,38.0,15.6,3.18,84.9,36801.04,Medium,Very Large
+G1184,2026-09-30,Mobile,Strategy,Mumbai,Free_With_Ads,120.1,50.0,3.8,2.22,62.6,52123.23,High,Large
+G1185,2024-12-30,Mobile,Strategy,Delhi,Free_With_Ads,49.6,33.0,4.3,1.07,9.8,19758.06,Medium,Small
+G1186,2026-11-14,Mobile,RPG,Mumbai,Free_With_Ads,81.0,26.0,7.3,1.82,25.9,31975.31,Medium,Medium
+G1187,2026-09-23,PC,Strategy,Pune,In_App_Purchases,98.6,24.0,4.2,1.66,42.6,43204.87,Low,Medium
+G1188,2026-08-11,Mobile,Action,Hyderabad,In_App_Purchases,194.4,60.0,6.9,2.6,75.9,39043.21,High,Very Large
+G1189,2025-02-18,Console,Action,Mumbai,Paid,85.6,35.0,5.0,1.79,28.0,32710.28,Medium,Medium
+G1190,2026-08-24,Mobile,RPG,Pune,Free_With_Ads,75.4,30.0,13.9,1.75,26.9,35676.39,Medium,Small
+G1191,2026-10-14,Mobile,Sports,Delhi,In_App_Purchases,159.4,34.0,9.7,1.48,49.4,30991.22,Medium,Very Large
+G1192,2025-01-22,Mobile,Action,Bengaluru,Paid,133.9,48.0,6.8,2.26,52.1,38909.63,High,Large
+G1193,2026-10-17,PC,Puzzle,Mumbai,Free_With_Ads,155.8,51.0,9.45,0.79,60.2,38639.28,High,Very Large
+G1194,2025-10-25,PC,Strategy,Pune,In_App_Purchases,89.0,32.0,8.1,3.32,49.1,55168.54,Medium,Medium
+G1195,2025-01-08,Mobile,Action,Pune,Paid,74.6,23.0,1.5,2.9,15.7,21045.58,Low,Small
+G1196,2026-02-15,PC,Puzzle,Bengaluru,In_App_Purchases,60.3,26.0,7.5,1.89,15.4,25538.97,Medium,Small
+G1197,2026-10-03,PC,RPG,Bengaluru,Paid,215.6,31.0,14.9,3.89,67.5,31307.98,Medium,Very Large
+G1198,2026-11-14,Mobile,Puzzle,Mumbai,In_App_Purchases,145.2,43.0,8.6,2.39,69.5,47865.01,High,Large
+G1199,2025-11-19,Console,Action,Pune,Free_With_Ads,19.5,36.0,7.6,3.77,46.1,236410.26,Medium,Small
+G1200,2026-03-31,Mobile,RPG,Bengaluru,In_App_Purchases,75.5,44.0,9.1,3.73,16.4,21721.85,High,Small
+G1201,2025-04-29,PC,Sports,Pune,Paid,171.5,33.0,16.7,1.61,58.8,34285.71,Medium,Very Large
+G1202,2026-08-26,Mobile,Strategy,Delhi,Free_With_Ads,70.1,49.0,8.5,2.3,39.3,56062.77,High,Small
+G1203,2024-12-26,Mobile,Sports,Hyderabad,Free_With_Ads,82.7,48.0,12.9,3.0,63.8,77146.31,High,Medium
+G1204,2026-10-25,Mobile,Action,Mumbai,Free_With_Ads,100.5,32.0,11.0,4.85,47.2,46965.17,Medium,Medium
+G1205,2025-07-03,Mobile,Action,Delhi,Paid,65.2,24.0,1.8,1.1,36.3,55674.85,Low,Small
+G1206,2026-04-11,Mobile,Action,Bengaluru,In_App_Purchases,88.2,41.0,10.6,0.8,61.1,69274.38,High,Medium
+G1207,2025-07-24,Console,Strategy,Mumbai,Free_With_Ads,15.0,27.0,2.8,2.68,14.9,99333.33,Medium,Small
+G1208,2026-09-19,Console,Action,Bengaluru,In_App_Purchases,198.2,37.0,9.45,2.25,63.3,31937.44,Medium,Very Large
+G1209,2025-10-29,Mobile,Puzzle,Delhi,Paid,125.8,33.0,11.2,1.46,36.0,28616.85,Medium,Large
+G1210,2026-05-03,Mobile,RPG,Mumbai,Free_With_Ads,119.4,64.0,2.7,2.01,52.6,44053.6,High,Medium
+G1211,2026-11-13,Console,Action,Mumbai,In_App_Purchases,146.1,36.0,8.9,2.12,60.9,41683.78,Medium,Large
+G1212,2025-04-30,PC,Puzzle,Delhi,Paid,187.7,26.0,8.1,0.1,51.1,27224.29,Medium,Very Large
+G1213,2025-12-02,Console,Strategy,Mumbai,In_App_Purchases,99.3,34.0,8.0,1.73,29.8,30010.07,Medium,Medium
+G1214,2025-10-24,PC,Sports,Delhi,In_App_Purchases,147.6,13.0,7.8,0.44,23.0,15582.66,Low,Large
+G1215,2026-05-24,Mobile,Action,Bengaluru,Paid,121.0,37.0,14.8,1.53,51.1,42231.4,Medium,Large
+G1216,2026-05-22,Mobile,Action,Bengaluru,Paid,162.3,30.0,8.7,3.66,57.4,35366.61,Medium,Very Large
+G1217,2026-03-02,Mobile,RPG,Mumbai,Paid,68.2,39.0,13.7,2.42,39.0,57184.75,Medium,Small
+G1218,2025-11-26,PC,Sports,Bengaluru,In_App_Purchases,118.0,28.0,16.4,0.1,20.9,17711.86,Medium,Medium
+G1219,2026-10-27,Console,Strategy,Delhi,Free_With_Ads,191.4,34.0,23.0,3.21,79.9,41745.04,Medium,Very Large
+G1220,2026-02-27,PC,RPG,Delhi,In_App_Purchases,76.8,12.0,15.0,2.83,17.3,22526.04,Low,Small
+G1221,2025-01-07,PC,Action,Pune,Paid,108.0,37.0,9.7,1.21,49.5,45833.33,Medium,Medium
+G1222,2025-11-01,Mobile,Action,Bengaluru,Free_With_Ads,274.3,20.0,9.0,0.7,54.8,19978.13,Low,Very Large
+G1223,2025-04-17,Mobile,Strategy,Mumbai,Free_With_Ads,94.6,53.0,8.0,1.31,64.3,67970.4,High,Medium
+G1224,2025-09-22,Mobile,Strategy,Mumbai,Free_With_Ads,90.6,18.0,4.7,1.98,11.4,12582.78,Low,Medium
+G1225,2026-09-05,Mobile,RPG,Hyderabad,Paid,155.3,43.0,6.6,2.9,53.5,34449.45,High,Very Large
+G1226,2024-12-10,Mobile,Action,Pune,In_App_Purchases,159.1,38.0,9.5,3.63,74.8,47014.46,Medium,Very Large
+G1227,2025-07-21,Mobile,Strategy,Mumbai,Free_With_Ads,85.6,21.0,15.7,4.58,19.5,22780.37,Low,Medium
+G1228,2025-09-06,PC,Strategy,Mumbai,Paid,95.2,36.0,9.6,1.4,39.9,41911.76,Medium,Medium
+G1229,2026-11-10,Mobile,Strategy,Bengaluru,Paid,176.5,32.0,9.3,2.95,19.3,10934.84,Medium,Very Large
+G1230,2026-03-06,Mobile,Sports,Hyderabad,In_App_Purchases,84.0,40.0,9.9,3.23,41.4,49285.71,High,Medium
+G1231,2026-07-28,Mobile,Action,Pune,Free_With_Ads,155.7,70.0,6.9,2.39,98.4,63198.46,High,Very Large
+G1232,2026-06-30,Mobile,Sports,Hyderabad,Paid,143.6,29.0,6.4,2.0,28.1,19568.25,Medium,Large
+G1233,2026-05-16,Mobile,Puzzle,Bengaluru,In_App_Purchases,20.9,41.0,22.4,2.45,25.0,119617.22,High,Small
+G1234,2026-05-15,Console,Strategy,Bengaluru,In_App_Purchases,72.4,50.0,7.7,4.14,41.4,57182.32,High,Small
+G1235,2026-02-03,Mobile,Puzzle,Delhi,Free_With_Ads,134.6,19.0,6.2,3.05,14.5,10772.66,Low,Large
+G1236,2026-06-09,Mobile,Action,Mumbai,Paid,128.1,25.0,12.0,1.38,30.7,23965.65,Medium,Large
+G1237,2025-01-10,Mobile,Action,Mumbai,Paid,112.1,43.0,6.0,2.61,45.7,40767.17,High,Medium
+G1238,2025-12-06,PC,Action,Delhi,In_App_Purchases,27.4,25.0,2.5,2.89,3.0,10948.91,Medium,Small
+G1239,2026-09-10,Mobile,Action,Delhi,Free_With_Ads,138.2,42.0,10.7,0.83,48.8,35311.14,High,Large
+G1240,2025-06-21,Console,Sports,Mumbai,In_App_Purchases,131.6,40.0,12.9,2.31,69.1,52507.6,High,Large
+G1241,2026-03-09,Mobile,Action,Mumbai,Free_With_Ads,131.7,19.0,14.4,2.68,22.2,16856.49,Low,Large
+G1242,2025-02-24,Mobile,Sports,Delhi,In_App_Purchases,111.4,39.0,14.4,1.57,38.0,34111.31,Medium,Medium
+G1243,2026-05-27,Mobile,Action,Hyderabad,Free_With_Ads,204.4,29.0,13.9,1.61,70.7,34589.04,Medium,Very Large
+G1244,2026-03-01,Mobile,RPG,Delhi,Free_With_Ads,131.9,38.0,6.7,1.8,47.4,35936.32,Medium,Large
+G1245,2025-09-23,PC,Action,Bengaluru,In_App_Purchases,126.9,30.0,13.9,2.1,27.6,21749.41,Medium,Large
+G1246,2025-03-13,Mobile,Puzzle,Delhi,Free_With_Ads,126.5,28.0,10.6,2.38,37.5,29644.27,Medium,Large
+G1247,2026-10-05,Mobile,Action,Bengaluru,Free_With_Ads,153.7,36.0,4.6,3.01,44.0,28627.2,Medium,Very Large
+G1248,2025-10-31,PC,Unknown,Pune,In_App_Purchases,112.9,30.0,5.2,4.35,49.8,44109.83,Medium,Medium
+G1249,2026-03-06,Mobile,RPG,Mumbai,In_App_Purchases,42.6,50.0,6.1,3.34,34.6,81220.66,High,Small
+G1250,2026-05-15,PC,Puzzle,Bengaluru,Free_With_Ads,102.3,31.0,5.8,3.28,43.0,42033.24,Medium,Medium
